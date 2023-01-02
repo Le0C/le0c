@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_watch this space_
+working on front end & full stack for [ruumi](https://www.ruumi.io/) 🐮
